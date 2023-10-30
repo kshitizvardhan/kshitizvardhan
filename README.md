@@ -2,7 +2,7 @@
 - 📫 How to reach me kshitizvardhan8@gmail.com
 
 # HacktoberFest2023 Badges
-(https://holopin.me/kshitizvardhan)](https://holopin.io/@kshitizvardhan)
+[![An image of @kshitizvardhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kshitizvardhan)](https://holopin.io/@kshitizvardhan)
 
 
 <!---
