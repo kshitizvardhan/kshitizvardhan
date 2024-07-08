@@ -1,6 +1,6 @@
 <h1 align="center"> ⚡ Hello everyone  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">, I'm Kshitiz <h1/>
 
-<p width="70px" height="70px">
+<p width="20px" height="20px">
     
 ```
 About Me = {
