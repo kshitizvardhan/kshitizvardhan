@@ -1,24 +1,24 @@
 <h1 align="center"> ⚡ Hello everyone  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">, I'm Kshitiz <h1/>
 
-<p style="font-size: 12px;">
-    
+## ⚡ HELLO WORLD! ⚡
 ```
-About_Me = {
-  "Name": "Kshitiz Vardhan",
-  "Profession": "Full Stack Development ✅",
-  "Age": "19",
-  "Country": "India 🌏",
-  "College": "Chitkara University, Punjab",
-  "About": {
+Name = "Kshitiz Vardhan"
+Profession = {
+  'Full Stack Development':  '✅',
+  'Nextjs':  '❤️',
+  'react-native:'❤️',
+  'Django':  '✅',
+  'Open Source':  '❤️'
+}
+Age = "19"
+Country = "India 🌏"
+College = "Chitkara University, Punjab"
+"About": {
     "Learning": ["🚀 Pushing technology boundaries", "📚 Always learning"],
     "Passions": ["🌿 Nature lover", "🎵 Music enthusiast", "📸 Photography"],
     "Help": "🤝 Open to collaboration",
-  }
 }
-
-```
-</p>    
-
+``` 
 
 ## Languages and Tools
 
