@@ -32,7 +32,7 @@
     <a href="https://github.com/kshitizvardhan/github-readme-stats"><img alt="sa2003hil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kshitizvardhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/kshitizvardhan/github-readme-stats"><img alt="sahil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitizvardhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note: The listed top languages reflect the languages present in my public code and should not be taken as a measure of my experience or skill level </b>
+  <b>Note: The listed top languages reflect the languages present in my public code and should not be taken as a measure of my experience or skill level.</b>
 <br/>
 <br/>
 <br/>
@@ -45,7 +45,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/kshitizvardhan.svg?style=for-the-badge&color=green&affiliations=OWNER%2CCOLLABORATOR)](https://github.com/kshitizvardhan?tab=stars)
 
 <br/>
-<h1 align="center>😁✌️ Connect with Me</h1>
+<br/>
+
+<h1 align="center> Connect with Me </h1>
 
 <p align="left">
 
