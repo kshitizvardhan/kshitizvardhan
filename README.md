@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshitiz Vardhan</h1>
 <!-- <h3 align="center">A passionate Full Stack developer from India</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitizvardhan&label=Profile%20views&color=0e75b6&style=flat-square" alt="kshitizvardhan" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,6 +37,30 @@
 <br/>
 <br/>
 
+
+<h1 align="center">Views and Followers</h1>
+
+[![GitHub views](https://komarev.com/ghpvc/?username=kshitizvardhan&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/kshitizvardhan?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/kshitizvardhan.svg?style=for-the-badge&color=orange&label=Follower)](https://github.com/kshitizvardhan?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/kshitizvardhan.svg?style=for-the-badge&color=green&affiliations=OWNER%2CCOLLABORATOR)](https://github.com/kshitizvardhan?tab=stars)
+
+<br/>
+<h1 align="center>😁✌️ Connect with Me</h1>
+
+<p align="left">
+
+<div style="display:flex;gap:2px;">
+<a href="https://linkedin.com/in/kshitiz-vardhan" target="_blank">
+<img src="https://img.shields.io/badge/Linkedin:  Kshitiz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+
+<br>
+
+<a href="kvwork1105@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  kshitizvardhan-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+
+</div>
 
 
 <!---
