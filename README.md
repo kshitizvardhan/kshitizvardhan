@@ -16,8 +16,9 @@
 # HacktoberFest2023 
 [![An image of @kshitizvardhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kshitizvardhan)](https://holopin.io/@kshitizvardhan)
 
-
-<h3 align="center"> 📊 My Github Stats </h3>
+<br/>
+<br/>
+<h1 align="center"> 📊 My Github Stats </h1>
 
 <p align="center">
     <a href="https://github.com/kshitizvardhan/github-readme-streak-stats">
