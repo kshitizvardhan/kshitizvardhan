@@ -1,6 +1,6 @@
 <h1 align="center"> ⚡ Hello everyone  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">, I'm Kshitiz <img width="40px" height="40px" src="https://media.giphy.com/media/G3xHGIDU9LONNZQJid/giphy.gif"><h1/>
 
-## About Me
+## I'm a [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=ffffff&center=true&vCenter=true&width=1000&height=50&lines=Software+Developer+;Programmer;)](https://git.io/typing-svg)
 ```
 Name = "Kshitiz Vardhan"
 Profession = {
