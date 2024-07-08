@@ -1,36 +1,18 @@
 <h1 align="center"> ⚡ Hello everyone  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">, I'm Kshitiz <h1/>
 
-<p width="20px" height="20px">
+<p style="font-size: 12px;">
     
 ```
-About Me = {
+About_Me = {
   "Name": "Kshitiz Vardhan",
-  "Profession": {
-    "Full Stack Development": '✅',
-  },
+  "Profession": "Full Stack Development ✅",
   "Age": "19",
   "Country": "India 🌏",
   "College": "Chitkara University, Punjab",
-
   "About": {
-    "Learning": [
-      "🚀 Constantly pushing the boundaries of technology",
-      "📚 Avid learner, always expanding my knowledge base"
-    ],
-    "Passions": [
-      "🌿 Deeply connected to nature and its serenity",
-      "🎨 Passionate about crafting unique and user-friendly designs",
-      "🎵 Music lover, using tunes to fuel my creativity",
-      "📸 Capturing moments through the lens of my camera"
-    ],
-    "Current Focus": "🛠️ Currently mastering the art of building from the ground up",
-    "Help": "🤝 Eager to collaborate and share insights with others",
-    "Fun Facts": [
-      "⚡ I thrive on long coding sessions fueled by delicious snacks",
-      "🌍 Exploring new cultures and perspectives through travel",
-      "💡 Always on the lookout for innovative ideas and solutions",
-      "🧩 Solving complex problems one step at a time"
-    ]
+    "Learning": ["🚀 Pushing technology boundaries", "📚 Always learning"],
+    "Passions": ["🌿 Nature lover", "🎵 Music enthusiast", "📸 Photography"],
+    "Help": "🤝 Open to collaboration",
   }
 }
 
