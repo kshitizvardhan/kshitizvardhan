@@ -16,11 +16,26 @@
 # HacktoberFest2023 
 [![An image of @kshitizvardhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kshitizvardhan)](https://holopin.io/@kshitizvardhan)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitizvardhan&show_icons=true&locale=en&layout=compact" alt="kshitizvardhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitizvardhan&show_icons=true&locale=en" alt="kshitizvardhan" /></p>
+<h3 align="center"> 📊 My Github Stats </h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitizvardhan&" alt="kshitizvardhan" /></p>
+<p align="center">
+    <a href="https://github.com/kshitizvardhan/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sa2003hil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitizvardhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+
+
+  <br/>
+    <a href="https://github.com/kshitizvardhan/github-readme-stats"><img alt="sa2003hil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kshitizvardhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/kshitizvardhan/github-readme-stats"><img alt="sahil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitizvardhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note: The listed top languages reflect the languages present in my public code and should not be taken as a measure of my experience or skill level </b>
+<br/>
+<br/>
+<br/>
+
 
 
 <!---
