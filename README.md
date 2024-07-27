@@ -24,7 +24,8 @@ College = "Chitkara University, Punjab"
 <br/>
 
 ## Microsoft Learn Student Ambassador
-![https://www.credly.com/badges/7a69814c-03a2-4be8-8921-f3caa145598f/public_url](https://github.com/user-attachments/assets/3fdfb81b-85ba-4356-b60b-5b6e0818b09d)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7a69814c-03a2-4be8-8921-f3caa145598f" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 <br/>
